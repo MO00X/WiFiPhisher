@@ -58,7 +58,7 @@ For educational and authorized testing only.
 
 ---
 
-## License
+## 📋 License
 This project is licensed under the MIT License.
 
 ---
