@@ -58,6 +58,11 @@ For educational and authorized testing only.
 
 ---
 
+## License
+This project is licensed under the MIT License.
+
+---
 ## 👨‍💻 Author
 **Mohamed Ali**  
 Cybersecurity Student | Red Teaming  
+
